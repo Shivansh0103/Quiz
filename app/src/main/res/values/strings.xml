@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="welcome_to_java_quiz">Welcome to Java Quiz</string>
+    <string name="boolean_is_a_keyword_in_java">Boolean is a keyword in java.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="next">NEXT</string>
+    <string name="javaimg">javaimg</string>
+</resources>
